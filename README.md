@@ -1,8 +1,12 @@
+`Nota: En caso de no verse adecuadamente las imágenes con descripciones, se agregaron individualmente al repositorio las imágenes originales para poder abrirla aparte. Gracias :)`
+ 
+
 # GITHUB #
 
 ## Captura de Pantalla
 
 Markup : ![Descripción página principal GitHub](http://thumbs.subefotos.com/719e47f96787bdd5b828050e6da5ae70o.jpg)
+
 
 ## Descripción del sitio ## 
 >__Visualización de la página por parte del usuario__:El usuario observa e identifica los elementos de la página haciendo una Z e identificando los puntos más llamativos del sitio en general en es orden.
